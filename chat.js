@@ -1,5 +1,5 @@
 window.onload = function(){
-    var textbox1=document.getElementById('textinput');
+    const textbox1=document.getElementById('textinput');
     const chatarea = document.getElementById("chatarea");
     const cleartext = document.getElementById("cleartext");
     var addtext =""
